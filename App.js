@@ -23,7 +23,7 @@ import SuccessScreen from './SuccessScreen';
 function WelcomeScreen({ navigation }) {
   return (
     <ImageBackground 
-    source={require('./assets/App2.jpg')} 
+    source={require('./assets/3.jpg')} 
     style={styles.backgroundImage}
     resizeMode="cover"
   >
